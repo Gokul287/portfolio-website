@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "12662000000007080",
+      "name": "GokulGPortfolio",
+      "domain": {
+        "id": "50024792742",
+        "name": "gokulgportfolio-60037110467.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60037110467",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
